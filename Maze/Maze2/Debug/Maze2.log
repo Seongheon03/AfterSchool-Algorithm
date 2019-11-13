@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\user\source\repos\afterschool\maze\maze2\source.c(37): warning C4013: 'is_full' undefined; assuming extern returning int
+c:\users\user\source\repos\afterschool\maze\maze2\source.c(47): warning C4013: 'exit' undefined; assuming extern returning int
+c:\users\user\source\repos\afterschool\maze\maze2\source.c(50): warning C4715: 'pop': not all control paths return a value
+  Maze2.vcxproj -> C:\Users\user\source\repos\AfterSchool\Maze\Debug\Maze2.exe

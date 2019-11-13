@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maze1", "Maze\Maze.vcxproj", "{2FF0A2B3-A568-4AB8-AF3B-A59C870555A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Maze", "Maze", "{B310B510-85F9-44BB-A28A-0633A518DDD2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maze2", "Maze2\Maze2.vcxproj", "{CF769C2F-1165-428D-88BB-DC4077D1100B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF0A2B3-A568-4AB8-AF3B-A59C870555A6}.Debug|x64.ActiveCfg = Debug|x64
+		{2FF0A2B3-A568-4AB8-AF3B-A59C870555A6}.Debug|x64.Build.0 = Debug|x64
+		{2FF0A2B3-A568-4AB8-AF3B-A59C870555A6}.Debug|x86.ActiveCfg = Debug|Win32
+		{2FF0A2B3-A568-4AB8-AF3B-A59C870555A6}.Debug|x86.Build.0 = Debug|Win32
+		{2FF0A2B3-A568-4AB8-AF3B-A59C870555A6}.Release|x64.ActiveCfg = Release|x64
+		{2FF0A2B3-A568-4AB8-AF3B-A59C870555A6}.Release|x64.Build.0 = Release|x64
+		{2FF0A2B3-A568-4AB8-AF3B-A59C870555A6}.Release|x86.ActiveCfg = Release|Win32
+		{2FF0A2B3-A568-4AB8-AF3B-A59C870555A6}.Release|x86.Build.0 = Release|Win32
+		{CF769C2F-1165-428D-88BB-DC4077D1100B}.Debug|x64.ActiveCfg = Debug|x64
+		{CF769C2F-1165-428D-88BB-DC4077D1100B}.Debug|x64.Build.0 = Debug|x64
+		{CF769C2F-1165-428D-88BB-DC4077D1100B}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF769C2F-1165-428D-88BB-DC4077D1100B}.Debug|x86.Build.0 = Debug|Win32
+		{CF769C2F-1165-428D-88BB-DC4077D1100B}.Release|x64.ActiveCfg = Release|x64
+		{CF769C2F-1165-428D-88BB-DC4077D1100B}.Release|x64.Build.0 = Release|x64
+		{CF769C2F-1165-428D-88BB-DC4077D1100B}.Release|x86.ActiveCfg = Release|Win32
+		{CF769C2F-1165-428D-88BB-DC4077D1100B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2FF0A2B3-A568-4AB8-AF3B-A59C870555A6} = {B310B510-85F9-44BB-A28A-0633A518DDD2}
+		{CF769C2F-1165-428D-88BB-DC4077D1100B} = {B310B510-85F9-44BB-A28A-0633A518DDD2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EA10C1E-58E9-40A3-A156-8AD4D88F130E}
+	EndGlobalSection
+EndGlobal
